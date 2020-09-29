@@ -4,6 +4,11 @@ vamos a ver el manejo de Ramas y demas...
 
 
 
+////////////////////////////
+ESTO LO SUBO DESDE LA RAMA "ramaPrueba1"
+///////////////////////////
+
+
 
 
 
@@ -18,3 +23,8 @@ Agregando cosas desde la master!!!
 mas y mas jejejje
 agregando cosas listo el pollo
 //////
+
+
+
+//Estoy laburando y agrego mas cosas le metemos garra 
+
