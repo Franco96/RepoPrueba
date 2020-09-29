@@ -3,11 +3,11 @@ Esto es muy interesante!
 vamos a ver el manejo de Ramas y demas...
 
 
-<<<<<<< HEAD
+
 ////////////////////////////
 ESTO LO SUBO DESDE LA RAMA "ramaPrueba1"
 ///////////////////////////
-=======
+
 
 
 
@@ -21,10 +21,10 @@ ESTO LO SUBO DESDE LA RAMA "ramaPrueba1"
 /////
 Agregando cosas desde la master!!!
 mas y mas jejejje
-<<<<<<< HEAD
-//////
->>>>>>> 66856a0bd5e4f91b1035ea6296c03fd5cd6a4f51
-=======
 agregando cosas listo el pollo
 //////
->>>>>>> 78ffecaa1d3e1848e70f1b62cbfbc6a34c1c5898
+
+
+
+//Estoy laburando y agrego mas cosas le metemos garra 
+
