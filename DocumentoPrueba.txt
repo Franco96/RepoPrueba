@@ -1,3 +1,8 @@
 Hola yo soy lautaro y estoy aprendiendo git...
 Esto es muy interesante!
 vamos a ver el manejo de Ramas y demas...
+
+
+////////////////////////////
+ESTO LO SUBO DESDE LA RAMA "ramaPrueba1"
+///////////////////////////
